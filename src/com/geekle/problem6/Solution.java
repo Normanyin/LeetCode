@@ -32,7 +32,7 @@ public class Solution {
     }
 	
 	public static void main(String[] args) {
-		String string = "AB";
+		String string = "A";
 		System.out.println(convert(string, 1));
 	}
 }
